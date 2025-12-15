@@ -9,4 +9,3 @@ wordcloud
 statsmodels
 python-dateutil
 requests
-data_prep
