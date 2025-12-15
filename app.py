@@ -115,3 +115,8 @@ with col_chart4:
     st.markdown("___")
     st.subheader("Deatiled data view")
     st.dataframe(filtered_df)
+
+    from streamlit.runtime.scriptrunner import add_script_run_ctx
+import threading
+
+
